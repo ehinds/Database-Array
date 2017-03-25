@@ -1,0 +1,2 @@
+# Database-Array
+Opens a file "myData.txt" and reads and stores the information into a dynamic string array called DB. Allows 5 choices to be performed by the user: Display contents of the array to the screen, add a new entry, remove an entry, search for an entry,  or exit the program. Each time a function is invoked it states that it has been invoked and if the array becomes full the size is doubled.
